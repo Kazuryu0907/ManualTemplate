@@ -1,10 +1,7 @@
 #include "mbed.h"
 #include "sensor/MPU9250.h"
-#include "sensor/QEI.h"
 #include "driver/PIDController.h"
-#include "driver/MWodometry.h"
 #include "driver/WheelKinematics.h"
-#include "other/CheckFin.h"
 
 
 #define DEBUG
